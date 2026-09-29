@@ -1,6 +1,7 @@
 {
   "key.category.chatbubbles.main": "Облачка чата",
   "key.chatbubbles.settings": "Открыть настройки",
+  "key.chatbubbles.cursor": "Режим курсора (клик по облачкам)",
   "chatbubbles.settings.title": "Настройки облачков чата",
   "chatbubbles.option.enabled": "Облачка: %s",
   "chatbubbles.option.system": "Системные сообщения: %s",
@@ -8,5 +9,6 @@
   "chatbubbles.option.max": "Макс. облачков: %s",
   "chatbubbles.option.scale": "Размер: %s%%",
   "chatbubbles.option.opacity": "Прозрачность: %s%%",
-  "chatbubbles.option.radius": "Расстояние от игрока: %s%%"
+  "chatbubbles.option.radius": "Расстояние от центра: %s%%",
+  "chatbubbles.cursor.hint": "Кликни ЛКМ по облачку, чтобы убрать. Выход: та же клавиша или Esc."
 }

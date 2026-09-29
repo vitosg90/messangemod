@@ -1,0 +1,21 @@
+{
+	"schemaVersion": 1,
+	"id": "chatbubbles",
+	"version": "${version}",
+	"name": "Chat Bubbles",
+	"description": "Chat messages appear as bubbles around your character. Click a bubble to dismiss it.",
+	"authors": [],
+	"license": "CC0-1.0",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"com.example.chatbubbles.ChatBubblesClient"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.0",
+		"minecraft": "~26.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}
