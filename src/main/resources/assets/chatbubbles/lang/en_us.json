@@ -1,0 +1,14 @@
+{
+  "key.category.chatbubbles.main": "Chat Bubbles",
+  "key.chatbubbles.settings": "Open settings",
+  "key.chatbubbles.cursor": "Cursor mode (click bubbles)",
+  "chatbubbles.settings.title": "Chat Bubbles Settings",
+  "chatbubbles.option.enabled": "Bubbles: %s",
+  "chatbubbles.option.system": "System messages: %s",
+  "chatbubbles.option.lifetime": "Lifetime: %s s",
+  "chatbubbles.option.max": "Max bubbles: %s",
+  "chatbubbles.option.scale": "Size: %s%%",
+  "chatbubbles.option.opacity": "Opacity: %s%%",
+  "chatbubbles.option.radius": "Distance from center: %s%%",
+  "chatbubbles.cursor.hint": "Click a bubble to dismiss it. Press the key again or Esc to exit."
+}
