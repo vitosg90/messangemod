@@ -1,0 +1,12 @@
+{
+  "key.category.chatbubbles.main": "Облачка чата",
+  "key.chatbubbles.settings": "Открыть настройки",
+  "chatbubbles.settings.title": "Настройки облачков чата",
+  "chatbubbles.option.enabled": "Облачка: %s",
+  "chatbubbles.option.system": "Системные сообщения: %s",
+  "chatbubbles.option.lifetime": "Время жизни: %s с",
+  "chatbubbles.option.max": "Макс. облачков: %s",
+  "chatbubbles.option.scale": "Размер: %s%%",
+  "chatbubbles.option.opacity": "Прозрачность: %s%%",
+  "chatbubbles.option.radius": "Расстояние от игрока: %s%%"
+}
